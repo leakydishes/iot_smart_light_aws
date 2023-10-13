@@ -1,0 +1,2506 @@
+{
+  "topicFilter": "esp32/pub",
+  "qos": 0,
+  "messages": [
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697117203446,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "423343"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "2967"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "423366"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697117199429,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "419341"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "2969"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "419364"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697117195425,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "415339"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "2947"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "415362"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697117191436,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "411337"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "2970"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "411360"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697117187424,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "407335"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "2981"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "407358"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697117183426,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "403333"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "2983"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "403356"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697117179425,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "399331"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "2644"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "399354"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697117175417,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "395329"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "2559"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "395352"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697117171428,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "391327"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "2608"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "391350"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697117167416,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "387325"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "2611"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "387348"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697117163418,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "383323"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "2612"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "383346"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697117159413,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "379321"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "1623"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "379344"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697117155414,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "375319"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "1904"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "375342"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697117151546,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "371317"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "3041"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "1"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "371340"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697117147409,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "367315"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "3030"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "367338"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697117143401,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "363313"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "3047"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "363336"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697117139417,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "359311"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "3049"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "359334"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697117135582,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "355309"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "3038"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "355332"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697117131393,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "351307"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "3063"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "351330"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697117127393,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "347305"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "3056"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "347328"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697117123388,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "343302"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "3061"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "343325"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697117119389,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "339300"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "3071"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "339323"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697117115394,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "335298"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "3070"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "335321"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697117111397,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "331296"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "3071"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "331319"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697117107381,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "327294"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "1627"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "327317"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697117103382,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "323292"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "1619"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "323315"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697117099377,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "319290"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "1600"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "319313"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697117095382,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "315288"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "1589"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "315311"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697117091376,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "311286"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "1456"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "311309"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697117087373,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "307284"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "1872"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "307307"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697117083424,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "303282"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "2533"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "303305"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697117079371,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "299280"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "3047"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "299303"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697117075365,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "295278"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "3035"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "295301"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697117071379,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "291276"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "3045"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "1"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "291299"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697117067541,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "287274"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "3064"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "287297"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697117063357,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "283272"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "3070"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "283295"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697117059361,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "279270"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "3023"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "279293"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697117055367,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "275268"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "2991"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "275291"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697117051355,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "271266"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "2991"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "271289"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697117047349,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "267264"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "2990"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "267287"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697117043351,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "263262"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "2777"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "263285"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697117039556,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "259260"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "3010"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "259283"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697117035352,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "255258"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "2997"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "255281"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697117031343,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "251256"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "3084"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "251279"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697117027346,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "247254"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "2302"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "247277"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697117023352,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "243252"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "3013"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "243275"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697117019345,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "239250"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "3008"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "239273"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697117015332,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "235248"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "3037"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "1"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "235271"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697117011350,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "231246"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "2384"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "231269"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697117007373,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "227244"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "3020"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "1"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "227267"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697117003327,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "223242"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "3027"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "1"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "223265"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697116999331,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "219240"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "3017"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "219263"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697116995325,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "215238"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "3042"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "215261"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697116991328,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "211236"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "2046"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "211259"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697116987322,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "207234"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "1988"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "207257"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697116983326,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "203232"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "2089"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "203255"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697116979316,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "199230"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "845"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "1"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "199253"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697116975316,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "195228"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "368"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "195251"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697116971312,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "191226"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "789"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "191249"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697116967308,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "187224"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "928"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "187247"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697116963313,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "183222"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "946"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "183245"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697116959312,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "179220"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "1455"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "179243"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697116955306,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "175218"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "1531"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "175241"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697116951335,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "171216"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "2038"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "171239"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697116947299,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "167214"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "1861"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "167237"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697116943296,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "163212"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "1786"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "163235"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697116939298,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "159210"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "1723"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "159233"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697116935305,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "155208"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "2390"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "155231"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697116931296,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "151206"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "2990"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "151229"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697116927287,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "147203"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "2982"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "1"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "147226"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697116923284,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "143201"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "2962"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "1"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "143224"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697116919285,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "139199"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "2995"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "139222"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697116915285,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "135197"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "3041"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "135220"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697116911296,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "131195"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "2972"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "131218"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697116907277,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "127193"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "2974"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "127216"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697116903282,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "123191"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "3038"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "123214"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697116899275,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "119189"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "2951"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "119212"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697116895272,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "115187"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "3003"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "115210"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697116891269,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "111185"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "3027"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "1"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "111208"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697116887269,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "107183"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "3007"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "107206"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697116883269,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "103181"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "2969"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "103204"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697116879266,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "99178"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "3013"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "99201"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697116875263,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "95176"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "2960"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "95199"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697116871262,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "91174"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "2951"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "91197"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697116867261,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "87172"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "3002"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "87195"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697116863257,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "83170"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "3013"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "83193"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697116859256,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "79168"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "2967"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "79191"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697116855251,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "75166"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "3033"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "1"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "75189"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697116851362,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "71164"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "3026"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "71187"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697116847253,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "67162"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "2965"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "67185"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697116843244,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "63160"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "2987"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "63183"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697116839252,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "59158"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "3027"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "59181"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697116835240,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "55156"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "3014"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "55179"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697116831237,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "51154"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "2960"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "1"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "51177"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697116827237,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "47151"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "2960"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "1"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "47174"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697116823344,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "43149"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "2970"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "1"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "43172"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697116819231,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "39147"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "3024"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "39170"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697116815229,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "35145"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "2177"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "35168"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697116811246,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "31143"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "2173"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "31166"
+        }
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "esp32/pub",
+      "timestamp": 1697116807228,
+      "payload": {
+        "elapsed_time": {
+          "isLosslessNumber": true,
+          "value": "27141"
+        },
+        "lightLDR: ": {
+          "isLosslessNumber": true,
+          "value": "2320"
+        },
+        "MotionPIR: ": {
+          "isLosslessNumber": true,
+          "value": "0"
+        },
+        "deviceName: ": "esp32",
+        "deviceTime: ": {
+          "isLosslessNumber": true,
+          "value": "27164"
+        }
+      },
+      "qos": 0
+    }
+  ]
+}
